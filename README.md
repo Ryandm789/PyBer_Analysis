@@ -37,5 +37,4 @@ From a profit point of view Increasing the accessibility and advertising to book
 
 Increasing the number of drivers in rural cities to supplement demand would have a huge impact on such a low demand. Maybe offer more incentives and bonuses for driving in rural cities to accomondate the lack of revenue there. 
 
-Explore more service driven rides in urban areas by targeting customers that are utilizing ride share apps to avoid parking charges, city traffic, travel to and from business and personal appointments and errands
-
+Explore more possibilities of branching/expanding the business to more locations and to a permanent hub like an airport, and hospitals. 
