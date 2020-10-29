@@ -3,10 +3,10 @@
 # Overview of the analysis:
 This module is introducing a high in-depth exploratory analysis using python scripts with Pandas libraries, Jupiter Notebook, and MatplotLib to create a data visualization of a variety of outcomes as it pertains to PyBer, ride sharing app. By using the data provided referencing the amount of rides, the amount of drivers, and the fares paid throughout different city types - this analysis will provide PyBer with the tools to explore how to improve access and create affordability in under serviced areas.
 <img src="Resource/Analysis/challenge_fare_summary.png">
-<B><li> Challenge Fare Summary <li><B>
+<B><li> Challenge Fare Summary </li></B>
 ## Results: 
 <img src="Resources/Total_Rides_per_City_type.png"
-<B><li>Total Rides per City Type </li><B>
+<B><li>Total Rides per City Type </li></B>
 
 
 ## The purpose of the new analysis is well defined. 
