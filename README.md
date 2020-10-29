@@ -5,7 +5,7 @@ This module is introducing a high in-depth exploratory analysis using python scr
 <img src="Resource/Analysis/challenge_fare_summary.png">
 <B><li> Challenge Fare Summary </li></B>
 ## Results: 
-<img src="Resources/Total_Rides_per_City_type.png"
+<img src="Resources/Total_Rides_per_City_type.png" alt="Test">
 <B><li>Total Rides per City Type </li></B>
 
 
